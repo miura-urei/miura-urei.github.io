@@ -1,0 +1,92 @@
+{
+  "verified": "2026-11-13",
+  "publications": [
+    {
+      "id": "2611.13591",
+      "title": "Topological flat bands from nonlinear periodic motion",
+      "authors": ["Urei Miura", "Hisao Hayakawa"],
+      "year": 2026,
+      "published": "2026-11-10",
+      "kind": "preprint",
+      "journal": null,
+      "doi": null,
+      "arxiv": "https://arxiv.org/abs/2611.13591",
+      "topic": "geometry",
+      "sources": ["https://arxiv.org/abs/2611.13591"]
+    },
+    {
+      "id": "2608.04850",
+      "title": "Two-dimensional Toda–Arnoldi correspondence: Holomorphic Krylov geometry and counterdiabatic transport",
+      "authors": ["Urei Miura"],
+      "year": 2026,
+      "published": "2026-08-05",
+      "kind": "preprint",
+      "journal": null,
+      "doi": null,
+      "arxiv": "https://arxiv.org/abs/2608.04850",
+      "topic": "geometry",
+      "sources": ["https://arxiv.org/abs/2608.04850"]
+    },
+    {
+      "id": "2504.16363",
+      "title": "Exact steady states and fragmentation-induced relaxation in the no-passing asymmetric simple exclusion process",
+      "authors": ["Urei Miura"],
+      "year": 2026,
+      "published": "2026-06-15",
+      "kind": "journal",
+      "journal": "Physical Review E 113, 064129 (2026)",
+      "doi": "10.1103/52vx-z447",
+      "arxiv": "https://arxiv.org/abs/2504.16363",
+      "topic": "dynamics",
+      "sources": [
+        "https://journals.aps.org/pre/abstract/10.1103/52vx-z447",
+        "https://arxiv.org/abs/2504.16363"
+      ]
+    },
+    {
+      "id": "2410.13354",
+      "title": "Emergent spacetime supersymmetry in an interacting Kitaev chain with explicit supersymmetry",
+      "authors": ["Urei Miura", "Keisuke Totsuka"],
+      "year": 2025,
+      "published": "2025-02-18",
+      "kind": "journal",
+      "journal": "Physical Review B 111, 075136 (2025)",
+      "doi": "10.1103/PhysRevB.111.075136",
+      "arxiv": "https://arxiv.org/abs/2410.13354",
+      "topic": "supersymmetry",
+      "sources": [
+        "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.075136",
+        "https://arxiv.org/abs/2410.13354"
+      ]
+    },
+    {
+      "id": "2310.19493",
+      "title": "Interacting Kitaev chain with N = 1 supersymmetry",
+      "authors": ["Urei Miura", "Kenji Shimomura", "Keisuke Totsuka"],
+      "year": 2024,
+      "published": "2024-02-26",
+      "kind": "journal",
+      "journal": "Physical Review B 109, 085141 (2024)",
+      "doi": "10.1103/PhysRevB.109.085141",
+      "arxiv": "https://arxiv.org/abs/2310.19493",
+      "topic": "supersymmetry",
+      "sources": [
+        "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.085141",
+        "https://arxiv.org/abs/2310.19493"
+      ]
+    },
+    {
+      "id": "2308.03346",
+      "title": "Supersymmetry Breaking in a Generalized Nicolai Model with Fermion Pairing",
+      "authors": ["Urei Miura", "Keisuke Totsuka"],
+      "year": 2023,
+      "published": "2023-08-07",
+      "kind": "preprint",
+      "journal": null,
+      "doi": null,
+      "arxiv": "https://arxiv.org/abs/2308.03346",
+      "topic": "supersymmetry",
+      "sources": ["https://arxiv.org/abs/2308.03346"]
+    }
+  ]
+}
